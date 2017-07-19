@@ -1,0 +1,44 @@
+[
+	{
+		"placeName": "Pimpri-Chinchwad, MH, India",
+		"placeCode": "IST",
+		"timeZoneId": "Asia/Calcutta",
+		"country": "IN",
+		"type": "home"
+	},
+	{
+		"placeName": "Toronto, ON, Canada",
+		"placeCode": "EDT",
+		"timeZoneId": "America/Toronto"
+	},
+	{
+		"placeName": "New York, NY, United States",
+		"placeCode": "EDT",
+		"timeZoneId": "America/New_York"
+	},
+	{
+		"placeName": "San Francisco, CA, United States",
+		"placeCode": "PDT",
+		"timeZoneId": "America/Los_Angeles"
+	},
+	{
+		"placeName": "Singapore, Singapore",
+		"placeCode": "SGT",
+		"timeZoneId": "Asia/Singapore"
+	},
+	{
+		"placeName": "Dublin, Ireland",
+		"placeCode": "IST",
+		"timeZoneId": "Europe/Dublin"
+	},
+	{
+		"placeName": "London, United Kingdom",
+		"placeCode": "BST",
+		"timeZoneId": "Europe/London"
+	},
+	{
+		"placeName": "Paris, France",
+		"placeCode": "CEST",
+		"timeZoneId": "Europe/Paris"
+	}
+]
