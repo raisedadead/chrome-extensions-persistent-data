@@ -1,2 +1,3 @@
-# fio-app-persistent-data
-data to store across my browsers for the "figure it out" chrome extention
+# chrome-extensions-persistent-data
+
+> data to store across browsers for the various chrome extensions
